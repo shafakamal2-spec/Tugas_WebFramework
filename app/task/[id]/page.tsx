@@ -1,3 +1,4 @@
+import React from 'react';
 import { getTodoDetail } from '@/lib/todos';
 import TaskNotFound from './components/TaskNotFound';
 import TaskDetailCard from './components/TaskDetailCard';
